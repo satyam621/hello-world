@@ -1,2 +1,3 @@
-# hello-world
-I just created only for the learning purpose
+#hello-world
+my name is satyam prabhat 
+i am a final CS undergrad
